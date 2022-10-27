@@ -1,0 +1,6 @@
+WARNING:discord.client:PyNaCl is not installed, voice will NOT be supported
+DEBUG:asyncio:Using proactor: IocpProactor
+INFO:discord.client:logging in using static token
+INFO:discord.gateway:Shard ID None has connected to Gateway (Session ID: 3a15e4fcdeca4f3558087a814bacb7e6).
+DEBUG:root:Event creation event: 1035205795572367410
+DEBUG:root:User add event: 1035205795572367410, tunacom
